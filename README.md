@@ -49,19 +49,19 @@ Here’s a quick preview of the dashboard in action:
 ## Screenshots
 
 ### Overview Page
-![Overview](Screenshots/Slide 1.png)
+![Overview](Screenshots/Slide_1.png)
 
 ### Vehicle Page
-![Vehicle](Screenshots/Slide 2.png)
+![Vehicle](Screenshots/Slide_2.png)
 
 ### Revenue Page
-![Revenue](Screenshots/Slide 3.png)
+![Revenue](Screenshots/Slide_3.png)
 
 ### Cancellation Page
-![Cancellation](Screenshots/Slide 4.png)
+![Cancellation](Screenshots/Slide_4.png)
 
 ### Reviews Page
-![Reviews](Screenshots/Slide 5.png)
+![Reviews](Screenshots/Slide_5.png)
 
 ---
 
